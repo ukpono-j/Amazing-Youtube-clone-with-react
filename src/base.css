@@ -1,0 +1,16 @@
+:root{
+  text-color: #b1bdb4;
+  black-primary: #16181b;
+  black-secondary: #121417;
+  border-color: #4c4c4c;
+  
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #16181b;
+    color: #b1bdb4;
+}
